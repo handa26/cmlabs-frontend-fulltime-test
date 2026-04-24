@@ -4,6 +4,16 @@
   <img src="https://img.shields.io/badge/DishDash-Link%20Demo-blue.svg?style=popout&logo=googlechrome"/>
 </a>
 
+## 🛠️ Tech Stack
+
+* **Framework**: [Next.js](https://nextjs.org/) (App Router)
+* **Language**: [TypeScript](https://www.typescriptlang.org/)
+* **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+* **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
+* **Icons**: [Lucide React](https://lucide.dev/)
+* **API**: [TheMealDB](https://www.themealdb.com/api.php)
+* **Package Manager**: `pnpm`
+
 ## 📦 Getting Started
 
 ### 1. Prerequisites
